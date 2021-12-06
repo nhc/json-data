@@ -1,0 +1,28 @@
+[
+  {
+    id: 1,
+    q: "Two colors that make green",
+    a: ['blue', 'yellow']
+  },
+  {
+    id: 2,
+    q: "Dennis the Menance's Jumper",
+    a: ['red', 'black']
+  },
+  {
+    id: 3,
+    q: "Flag of Iceland",
+    a: ['red', 'white', 'blue']
+  },
+  {
+    id: 4,
+    q: "The most popular pub name in the UK",
+    a: ['red'],
+    notes: "Red lion"
+  },
+  {
+    id: 5,
+    q: "Ball in snooker worth four points",
+    a: ['brown']
+  },
+]
